@@ -6,6 +6,7 @@
 | Names | Badges |
 | ------|:-------|
 | Cppcheck Analysis |[![Cppcheck Analysis](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/cppcheck.yml)|
+| C Windows Build | [![C Windows Build](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/build.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/build.yml) |
 | Codacy | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5429a85a870847e5b53e51aebb834cc1)](https://www.codacy.com/gh/abhishekkanap/M2_SmartStreetLightControlSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abhishekkanap/M2_SmartStreetLightControlSystem&amp;utm_campaign=Badge_Grade) |
 | Codiga | ![Code Quality Score](https://api.codiga.io/project/33089/score/svg)  ![Code Grade](https://api.codiga.io/project/33089/status/svg)|
 | Valgrind | [![Valgrind](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/valgrind_check.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/valgrind_check.yml) |
