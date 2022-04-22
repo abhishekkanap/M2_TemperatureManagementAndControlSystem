@@ -17,10 +17,10 @@
 
 int main(void)
 {
-    SEAT_CHECKING(); //Initializing Drivers seat
-    ADC_INITIALIZATION(); //Initializing ADC to accept temperature values
-    TIMER_INITIALIZATION(); //Initializing Timer by dividing clock with 64 prescale
-    LCD_INITIALIZATION(); //Initializing LCD
+    SEAT_checking(); //Initializing Drivers seat
+    ADC_init(); //Initializing ADC to accept temperature values
+    TIMER_init(); //Initializing Timer by dividing clock with 64 prescale
+    LCD_init(); //Initializing LCD
 
     uint16_t read;
 
