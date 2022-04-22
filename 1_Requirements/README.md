@@ -10,7 +10,7 @@ The temperature monitoring system is basically used to control the temperature. 
 - Low cost and robust system.
 - Modular Approach.
 
-## SWOT- Strengths, and Weakness, Opportunities Threats
+## SWOT Analysis
 ### Strengths
 - User Friendly
 - Easy to alter the temperature inside the vehicles.
