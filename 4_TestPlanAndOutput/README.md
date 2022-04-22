@@ -11,4 +11,4 @@
 | TID_07  | Temperature Request | Temp=33| heater=33 degree generation | PASS  |
 | TID_08  | LED ON | Button=1 && Heater=1| LED=1 | PASS  |
 | TID_09  | LED OFF | Button=0 && Heater=0| LED=0 | PASS  |
-| TID_10  | LCD Display | Temperature :)<br />20 deg Cel| Temperature :)<br />20 deg Cel| PASS  |
+| TID_10  | LCD Display | Temperature <br />20 deg Cel| Temperature <br />20 deg Cel| PASS  |
