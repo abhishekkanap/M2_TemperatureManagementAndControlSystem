@@ -1,8 +1,8 @@
-# **Temperature Management System**
+# **Vehicle Seat Temperature Controlling System**
 
 ## **Introduction:**
 
-The temperature management system is basically used to control the temperature. The user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the activities of the control system are done on a microcontroller called Atmega328. The functionality of the heat control system is coded in embedded c and the working is demonstrated using simuation in a software called SimulIDE.
+The seat temperature controlling system is basically used to control the temperature of the seat. The user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the activities of the control system are done on a microcontroller called Atmega328. The functionality of the heat control system is coded in embedded c and the working is demonstrated using simuation in a software called SimulIDE.
 
 ## Features
 - The System will sense is driver or passenger seated or not.
@@ -66,13 +66,13 @@ By installing the system in vehicles.
 
 # Architecture
 ## Block Diagram
-![](https://github.com/abhishekkanap/M2_TemperatureManagementSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Block_Diagram.jpg)
+![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Block_Diagram.jpg)
 ## Flow chart
-![](https://github.com/abhishekkanap/M2_TemperatureManagementSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Flow_Chart.jpg)
+![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/862960bcad2a7888f4481df7a3ac0a4addff5358/2_Architecture/Flow_Chart.jpg)
 
 # Images and Videos
 ## Simulation Diagram
-![](https://github.com/abhishekkanap/M2_TemperatureManagementSystem/blob/e5f9519f4530753fe126f34b62559c19980d9992/6_ImagesAndVideos/Simulation_Diagram.png)
+![](https://github.com/abhishekkanap/M2_VehicleSeatTemperatureControllingSystem/blob/e5f9519f4530753fe126f34b62559c19980d9992/6_ImagesAndVideos/Simulation_Diagram.png)
 ## Simulation Video
 https://user-images.githubusercontent.com/90414155/164933862-cb33fb13-7d7c-4836-8da8-c5394b176cb3.mp4
 
