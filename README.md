@@ -1,6 +1,6 @@
-# M2_TemperatureMonitoringSystem
+# M2_TemperatureManagementSystem
 
-## Mini Project on Temperature Monitoring System using ATMEGA328 MCU
+## Mini Project on Temperature Management System using ATMEGA328 MCU
 
 ## Badges
 | Names | Badges |
