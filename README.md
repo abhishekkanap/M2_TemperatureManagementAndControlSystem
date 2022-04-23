@@ -7,6 +7,7 @@
 | ------|:-------|
 | Cppcheck Analysis |[![Cppcheck Analysis](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/cppcheck.yml)|
 | C Windows Build | [![C Windows Build](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/build.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/build.yml) |
+| Linux CI | [![Linux CI](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/linux.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/linux.yml) |
 | C/C++ CI | [![C/C++ CI](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/c-cpp.yml) |
 | Valgrind | [![Valgrind](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/valgrind_check.yml/badge.svg)](https://github.com/abhishekkanap/M2_TemperatureMonitoringSystem/actions/workflows/valgrind_check.yml) |
 | Codacy | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/67cc523f9cc749afa61a8ee8f22c50e5)](https://www.codacy.com/gh/abhishekkanap/M2_TemperatureMonitoringSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=abhishekkanap/M2_TemperatureMonitoringSystem&amp;utm_campaign=Badge_Grade) |
