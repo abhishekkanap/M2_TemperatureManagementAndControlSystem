@@ -1,7 +1,7 @@
 /**
  * @file Activity_1.h
  * @author Abhishek Kanap
- * @brief Initialization of seat, heater and led
+ * @brief Initialization of seat, heater and LED
  * @version 0.1
  * @date 2022-04-17
  * 
