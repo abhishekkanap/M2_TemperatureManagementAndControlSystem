@@ -8,7 +8,7 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = Temperature Monitoring System
+APPNAME = Temperature Management System
 EXT = .c
 SRCDIR = src
 OBJDIR = .
