@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author Abhishek Kanap
- * @brief Temperature Management System
+ * @brief Vehicle Seat Temperature Controlling System
  * @version 0.1
  * @date 2022-04-17
  * 
