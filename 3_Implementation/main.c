@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @author Abhishek Kanap
- * @brief Temperature Monitoring System
+ * @brief Temperature Management System
  * @version 0.1
  * @date 2022-04-17
  * 
