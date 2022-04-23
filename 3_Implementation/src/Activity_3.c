@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#include "Activity2.h"
-#include "Activity3.h"
+#include "Activity_2.h"
+#include "Activity_3.h"
 
 /**
  * @brief ADC Initialization
@@ -78,7 +78,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
     }
     else if((ADC_READING>=210) && (ADC_READING<=500)){
 
-        OCR1A = 495; // duty cycle 40%
+        OCR1A = 495; // Duty cycle 40%
         Temp[0] = '2';
         Temp[1] = '5';
         Temp[2] = 223;
@@ -92,7 +92,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
     }
     else if((ADC_READING>=501) && (ADC_READING<=700)){
 
-        OCR1A = 695;// duty cycle 70%
+        OCR1A = 695;// Duty cycle 70%
         Temp[0] = '2';
         Temp[1] = '9';
         Temp[2] = 223;
@@ -106,7 +106,7 @@ void PWM_OUPUT(uint16_t ADC_READING){
     }
     else if((ADC_READING>=701) && (ADC_READING<=1024)){
 
-        OCR1A = 1019; // duty cycle 95%
+        OCR1A = 1019; // Duty cycle 95%
         Temp[0] = '3';
         Temp[1] = '3';
         Temp[2] = 223;
