@@ -8,7 +8,7 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = Temperature Management System
+APPNAME = Vehicle Seat Temperature Controlling System
 EXT = .c
 SRCDIR = src
 OBJDIR = .
